@@ -1,0 +1,7 @@
+C:\Users\av-lo\source\repos\ShellSort\ShellSort\bin\Debug\ShellSort.exe.config
+C:\Users\av-lo\source\repos\ShellSort\ShellSort\bin\Debug\ShellSort.exe
+C:\Users\av-lo\source\repos\ShellSort\ShellSort\bin\Debug\ShellSort.pdb
+C:\Users\av-lo\source\repos\ShellSort\ShellSort\obj\Debug\ShellSort.csproj.AssemblyReference.cache
+C:\Users\av-lo\source\repos\ShellSort\ShellSort\obj\Debug\ShellSort.csproj.CoreCompileInputs.cache
+C:\Users\av-lo\source\repos\ShellSort\ShellSort\obj\Debug\ShellSort.exe
+C:\Users\av-lo\source\repos\ShellSort\ShellSort\obj\Debug\ShellSort.pdb
